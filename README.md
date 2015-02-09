@@ -1,2 +1,2 @@
 # cours_html_1ere
-cours_html
+Ceci est un dépot pour les cours d'informatique au CPNV
